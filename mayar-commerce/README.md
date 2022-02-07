@@ -7,7 +7,7 @@ An example utilizing **[MAYAR HEADLESS API](https://api.mayar.id/headless/docs/#
 Clone the source code above into your computer.
 
 ```bash
-git clone https://github.com/mayarid/headless-examples.git
+git clone https://github.com/adityaqudaedah/mayar-headless-examples.git
 ```
 
 Install the project's dependencies.
